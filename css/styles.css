@@ -51,7 +51,7 @@ select{
 }
 
 .hide{
-    display: none;
+    display: none !important;
 }
 
 /*To do header*/
